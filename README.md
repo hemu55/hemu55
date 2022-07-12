@@ -1,15 +1,15 @@
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/text.gif" height="30"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+Hi I Am Hemanta Hembram<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
 I'm 23-year-old boy on an intention to enhance as a Computer Vision engineer. I love building Website.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on Mobile App.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Artificial Based
 - 👯 I’m looking to collaborate on Computer Vision
 - 🤔 I’m looking for a good project
 - 💬 Ask me about Computer Vision
-- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
+- 📫 How to reach me: [hhemanta355@gmail.com](mailto:hhemanta355@gmail.com)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Big fan of 🌈
 
@@ -19,8 +19,7 @@ I'm 23-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourab-maity-4551061b8/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/maity_sourab)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13909768/sourab-maity)&nbsp;
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/sourabmaity)&nbsp;  
-
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/hemu55)&nbsp;  
 <img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
  <br/>
  
@@ -37,16 +36,16 @@ I'm 23-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
 
-![Profile views](https://gpvc.arturio.dev/sourabmaity)
+![Profile views](https://gpvc.arturio.dev/hemu55)
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
-| ![](https://github-readme-stats.vercel.app/api?username=sourabmaity&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabmaity) |
+| ![](https://github-readme-stats.vercel.app/api?username=hemu55&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemu55) |
 | --- | --- |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabmaity) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=hemu55) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=sourabmaity&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
+![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=hemu55&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
 
 
 ## Watch my contribution graph being eaten by a snake🐍
@@ -72,20 +71,5 @@ I'm 23-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 ## My Trending Repos 💻
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/DuckHuntGame-AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=OpenCV_Basics&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/OpenCV_Basics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=JERVIS_AI&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/JERVIS_AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=AlgorithmsAndDataStructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/AlgorithmsAndDataStructure)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=Vegetable-Detection_App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/Vegetable-Detection_App)
-
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <a href="https://github.com/SOURAB-BAPPA?tab=followers"><img src="https://img.shields.io/github/followers/sourabmaity?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=hemu55'> <a href="https://github.com/SOURAB-BAPPA?tab=followers"><img src="https://img.shields.io/github/followers/hemu55?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-<img align="right" alt="GIF" height="160" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160"> 
-
-<img align="right" alt="GIF" height="170" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-## Spotify Playing 🎧
-
-
-
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/v3u6o6qjexr1zv9w39l6c4qq2)

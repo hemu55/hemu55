@@ -16,15 +16,13 @@
   
 
 ### **<div align="center">Hi, I'm Hemanta🚀</div>**  
-<div align="right">
-<img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="220" width="370" />
-</div> 
-
 
 
 - 🔭 I’m currently working on Noting   
   
-
+<div align="right">
+<img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="220" width="370" />
+</div> 
 - 🌱 I’m currently learning Android Development   
   
 

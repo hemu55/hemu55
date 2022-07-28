@@ -4,7 +4,7 @@
   
 
 <div align="center">
-<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" align="center" height="100" width="" />
+<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" align="center" height="90" width="" />
 </div>  
   
 

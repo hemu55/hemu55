@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-18.gif" align="center" height="400" width="600" />
+<img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-18.gif" align="center" height="250" width="300" />
 </div>  
 <br/> 
 

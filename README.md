@@ -4,12 +4,8 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<div align="center">Hi, I'm Hemanta🚀</div><div align="center">
-  
-
-</div> 
+ <div align="center"><h1 style="border:2px solid Tomato;">Hi, I am Hemanta🚀</h1><div align="center">
+</div>
  
 <br/>  
 
@@ -21,7 +17,10 @@
 <img src="https://komarev.com/ghpvc/?username=hemu55&&style=flat-square" align="right" /> 
 
 <br/> 
-<img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="200" width="390" />     
+<img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="200" width="390" /> 
+
+<b>
+<div align="left">
 - 🔭 I’m currently working on Web Development   
 
 
@@ -38,9 +37,9 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
- <br/>  
-
-  
+<br/>  
+<b/>
+</div>
 
 <br/>  
 

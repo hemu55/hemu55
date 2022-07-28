@@ -1,15 +1,13 @@
-<img src="https://github.com/sourabmaity/sourabmaity/raw/main/header_.png" align="left" height="150" width="600" />  
- 
+<div align="center">
+<img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-18.gif" align="center" height="400" width="600" />
+</div>  
+<br/> 
 
-### ****<div align="center">Hi, I'm Hemanta🚀</div>****  <div align="right">
+### ****<div align="center">Hi, I'm Hemanta🚀</div>****  <div align="center">
   
 
 </div> 
- <br/>  
-
-  
-
-<br/>  
+ 
 <br/>  
 
  

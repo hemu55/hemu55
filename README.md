@@ -16,6 +16,9 @@
   
 
 ### **<div align="center">Hi, I'm Hemanta🚀</div>**  
+<div align="right">
+<img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="220" width="370" />
+</div> 
 - 🔭 I’m currently working on Noting   
   
 
@@ -24,7 +27,7 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
+ 
 - 🤩I’m looking for a good project  
   
 

@@ -1,21 +1,8 @@
-<div align="right">
-<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" align="right" height="30" width="50" />
-</div>  
-  
-
-<div align="center">
-<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" align="center" height="90" width="" />
-</div>  
-  
-
-
-
-### 
-  
-<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" align="left" height="30" width="50" />   
+<img src="https://cdn.dribbble.com/users/23012/screenshots/2994574/wlecome.gif" align="left" height="150" width="600" />   
   
 
 ### ****<div align="center">Hi, I'm Hemanta🚀</div>****  <div align="right">
+  
 <img src="https://komarev.com/ghpvc/?username=hemu55&&style=flat-square" align="right" />
 </div> 
 
@@ -25,7 +12,7 @@
 <div align="right">
 <img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="220" width="370" />
 </div> 
--     🌱 I’m currently learning Android Development   
+- 🌱 I’m currently learning Android Development   
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  

@@ -19,9 +19,9 @@
 <img src="https://komarev.com/ghpvc/?username=hemu55&&style=flat-square" align="right" /> 
 
 <br/> 
-
-- 🔭 I’m currently working on Web Development   
 <img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="200" width="390" />     
+- 🔭 I’m currently working on Web Development   
+
 
 - 🌱 I’m currently learning Android Development   
   

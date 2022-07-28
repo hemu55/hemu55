@@ -1,9 +1,10 @@
-<div align="center">
-<img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-18.gif" align="center" height="200" width="250" />
-</div>  
+<img src="https://raw.githubusercontent.com/gist/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" align="left" height="120" width="1000" />  
 <br/> 
-
-### ****<div align="center">Hi, I'm Hemanta🚀</div>****  <div align="center">
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="center">Hi, I'm Hemanta🚀</div><div align="center">
   
 
 </div> 

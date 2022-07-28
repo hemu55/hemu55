@@ -1,19 +1,37 @@
-<h1 align="center">Hi 👋, I'm Hemanta Hembram</h1>
-<h3 align="center">A passionate web developer And Android Developer from India</h3>
+<div align="right">
+<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" align="right" height="40" width="60" />
+</div>  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemu55&label=Profile%20views&color=0e75b6&style=flat" alt="hemu55" /> </p>
+<div align="center">
+<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" align="center" height="100" width="" />
+</div>  
+  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemu55" alt="hemu55" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hhemanta355" target="blank"><img src="https://img.shields.io/twitter/follow/hhemanta355?logo=twitter&style=for-the-badge" alt="hhemanta355" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+### 
+  
+<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" align="left" height="40" width="60" />   
+  
 
-- 💬 Ask me about **Android,MERN**
+### **<div align="center">Hi, I'm Hemanta🚀</div>**  
+- 🔭 I’m currently working on Noting   
+  
 
-- 📫 How to reach me **hhemanta355@gmail.com**
+- 🌱 I’m currently learning Android Development   
+  
 
-- ⚡ Fun fact **I Am Funny**
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- 🤩I’m looking for a good project  
+  
+
+- 📩How to reach me hhemanta355@gmail.com  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,17 +1,29 @@
-<img src="https://cdn.dribbble.com/users/23012/screenshots/2994574/wlecome.gif" align="left" height="150" width="600" />   
-  
+<img src="https://github.com/sourabmaity/sourabmaity/raw/main/header_.png" align="left" height="150" width="600" />  
+ 
 
 ### ****<div align="center">Hi, I'm Hemanta🚀</div>****  <div align="right">
   
-<img src="https://komarev.com/ghpvc/?username=hemu55&&style=flat-square" align="right" />
+
 </div> 
+ <br/>  
 
-
-- 🔭 I’m currently working on Noting   
   
-<div align="right">
-<img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="220" width="370" />
-</div> 
+
+<br/>  
+<br/>  
+
+ 
+
+<br/>  
+<br/>  
+
+ 
+
+<br/> 
+
+- 🔭 I’m currently working on Noting   <img src="https://komarev.com/ghpvc/?username=hemu55&&style=flat-square" align="right" />
+<img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" align="right" height="200" width="390" />     
+
 - 🌱 I’m currently learning Android Development   
   
 

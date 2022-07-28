@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" align="right" height="40" width="60" />
+<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" align="right" height="30" width="50" />
 </div>  
   
 
@@ -12,7 +12,7 @@
 
 ### 
   
-<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" align="left" height="40" width="60" />   
+<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" align="left" height="30" width="50" />   
   
 
 ### **<div align="center">Hi, I'm Hemanta🚀</div>**  

@@ -21,8 +21,8 @@
 
 <b>
 <div align="left">
-- 🔭 I’m currently working on Web Development   
 
+- 🔭 I’m currently working on Web Development   
 
 - 🌱 I’m currently learning Android Development   
   
